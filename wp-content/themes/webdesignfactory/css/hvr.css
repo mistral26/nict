@@ -1,0 +1,25 @@
+@media only screen and (min-width: 767px) {
+#job-ads .wrap > div:hover {border: 2px solid #A63139; }
+#job-ads .wrap > div:hover .cta {color: #fff;background-color: #A63139;border-color: #A63139; }
+#job-ads .wrap > div:hover .line {background-color: #A63139;height: 2px; }
+.seeall:hover{background-color: #fff;color:#a63139;transition: .5s ease;text-decoration:none;}
+.dark > .w50 > div:hover a{color: #fff;transition: .5s ease;}
+.section .wrap > .w50 > div:hover{background-color: transparent;transition: .5s ease;}
+.section .wrap > .w50:first-child a:hover{background-color: #fff;color: #a63139;transition: .5s ease;}
+#initial-view #form input[type=submit]:hover{background-color: #fff;color: #a63139;transition: .5s ease;}
+#main-header ul li a:hover{text-decoration: none;}
+#menu-main > li > a:hover:before,#menu-main > li > a:hover:after{width: 50%;background-color: #a63139;}
+.news-section .h50:hover{background-size: 120% 120%;transition: 1s ease-out;}
+.news-section .h50 .plus:hover .inner{transition: .5s ease-in;transform: rotateZ(450deg);}
+#footer-nav > li > a:hover:before,#footer-nav > li > a:hover:after{width: 50%;}
+#footer #socials a:hover{font-size: 40px;transition: 1s ease;transform: rotateZ(360deg);}
+#footer .contact .figures a:hover img{transition: .5s ease;transform: rotateY(360deg);}
+.heff .circle:hover{border-radius: 0;transition: .5s ease;}
+.heff .square:hover{border-radius: 50%;transition: .5s ease;}
+.heff .w50 .w50:hover .icon{transition: .5s ease;transform: rotateZ(360deg);}
+#main-header ul li a:hover{color: #a53239;}
+.menu-item-has-children:hover:after,.menu-item-has-children:hover .aft:after{color: #a63139;}
+#main-header ul li:hover > .sub-menu {display: block; }
+.section .wrap > .w50 a:hover .icon{transform: rotateZ(1800deg);transition: 2s ease;}
+#upcoming-courses .w22:hover .image{border-radius: 50%;transition: 1s ease;}
+  }
